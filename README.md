@@ -13,4 +13,8 @@ This project was created for a database design and systems course. It implements
  - database_backup - A full database backup that can be restored.
  - erd.png - An entity relationship diagram visually modeling the database structure.
 
+## Entity Relationship Diagram:
+![ERD](https://github.com/alirezabhr/db_course_project/assets/59180145/222d3032-7516-4e3a-a26b-480f4f707e40)
+
+
 Frontend of this project is available [here](https://github.com/alirezabhr/university_platform_frontend).
